@@ -56,6 +56,9 @@ namespace Lsita
                         Console.WriteLine(CalcularMonto(Agenda));
                         break;
                     case '4':
+                        //incompleto
+                        break;
+                    case '5':
                         i = leerarchivo(archivo,i,Agenda);
                         break;
                     default:
